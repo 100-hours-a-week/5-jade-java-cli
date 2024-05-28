@@ -10,3 +10,7 @@
 ## 클래스 설명
 ![image](https://github.com/100-hours-a-week/5-jade-java-cli/assets/112841705/7a1b4274-6ccc-437d-af12-6353b59cb45a)
 ![image](https://github.com/100-hours-a-week/5-jade-java-cli/assets/112841705/91144988-9000-4ffa-9f67-2f0375a50c2f)
+
+## 프로그램 시연 영상
+https://github.com/100-hours-a-week/5-jade-java-cli/assets/112841705/ce3a3025-6c5f-487e-83e2-256681ee7d16
+
