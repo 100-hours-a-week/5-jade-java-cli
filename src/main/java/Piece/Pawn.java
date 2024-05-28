@@ -22,7 +22,6 @@ public class Pawn extends Piece{
                 if(((y+(i*direction))>=0 && (y+(i*direction))<8) &&
                         (board[y+(i*direction)][x] == null)
                 ){
-                    System.out.println("x: "+x+"y: "+(y+(i*direction)));
                     super.addMoves(x, y+(i*direction));
                 }
                 else break;
