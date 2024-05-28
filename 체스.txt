@@ -1,0 +1,40 @@
+체스판
+---변수
+턴 수
+턴
+보드
+킬 목록
+킬 수
+---메서드
+getter, setter, add(int, killed)
+bool toggleTurn()
+Piece getPiece(x, y) - 특정위치 말 받아오기
+bool movePiece(x, y, p) - 체스 말을 옮길 수 있는지, kill인지 여부
+setPiece(x, y, p) - 말옮기기
+void printBoard() - 체스판 출력
+void printBoard(Piece p) - 말이 선택된 체스판 출력
+https://www.google.com/search?sca_esv=e88af8624605c7ab&q=chess+CLI&tbm=isch&source=lnms&prmd=ivsnmbz&sa=X&ved=2ahUKEwi30Pqi-pqGAxWvn68BHZXrABgQ0pQJegQIDxAB&biw=1196&bih=911&dpr=1#imgrc=fiauHiVBdtmCoM
+
+말
+Piece
+
+
+
+자식들
+Pawn 폰
+Rook 룩
+Knight 기사, 나이트
+Bishop 성직자, 비숍
+King 왕, 킹
+Queen 여왕, 퀸
+
+
+initboard
+
+printboard
+selectPiece input: 좌표
+printboard(selected)
+movepiece(selected) input: 좌표
+// 1사이클
+
+printboard
